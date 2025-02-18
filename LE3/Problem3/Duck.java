@@ -1,0 +1,1 @@
+interface Duck extends Swimmable {}
